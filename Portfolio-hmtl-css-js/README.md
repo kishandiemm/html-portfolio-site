@@ -1,4 +1,4 @@
-# IPSVIP_Task_1
+# Inroduction 
 
 By Sneha Murugesh
-This is simple personal portfolio website 
+This is simple personal portfolio website using Html , CSS and JavaScript
